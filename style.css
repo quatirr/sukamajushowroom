@@ -1,0 +1,8 @@
+body {
+  background-color: #a8a8a8; /* warna abu seperti di gambar */
+}
+
+input::placeholder {
+  font-weight: bold;
+  text-align: center;
+}
